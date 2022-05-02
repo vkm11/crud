@@ -12,6 +12,10 @@
  
  5) run project:- ng serve 
  
+# create mysql database 
+
+1) database name:- ngcrud 
+2) table name:- students
  
 # create one another file :- 
  1) file name:- app-routing.module.ts
