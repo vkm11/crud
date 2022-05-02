@@ -20,6 +20,14 @@
 # create one another file :- 
  1) file name:- app-routing.module.ts
  
+# ubuntu xampp installation:-
+                $  sudo ./xampp-linus-64-8.1.5-0-installer.com
+  $ cd/opt/lampp/
+  $ ls
+  # this code helps to get server page 
+  opt/lampp$ sudo ./manager-linux-x64.run     
+   
+   
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
