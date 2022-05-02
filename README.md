@@ -1,5 +1,19 @@
 # Crud
 
+#1st:- in terminal
+
+ 1) project creation :- ng new crud
+ 
+ 2) component creation:- ng g c add-students
+ 
+ 3) component creation:- ng g c list-students
+ 
+ 4) component creation:- ng g c edit-students
+ 
+ 5) run project:- ng serve 
+ 
+ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
