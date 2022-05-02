@@ -13,6 +13,9 @@
  5) run project:- ng serve 
  
  
+# create one another file :- 
+ 1) file name:- app-routing.module.ts
+ 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
